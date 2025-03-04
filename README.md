@@ -1,6 +1,6 @@
 - 👋 Oi, meu nome é Vinicius Ferreira
 - 👀 Sou entuasiasta do mundo dos dados e tecnologia. 
-- 🌱 Desenvolvendo meus conhecimentos em SQL, Python,  R e Data Analysis. 
+- 🌱 Desenvolvendo meus conhecimentos em SQL, Python, Machine Learning, Otimização e Data Analysis. 
 - 📫 Você pode me encontrar em https://www.linkedin.com/in/viniciusferreira22/
 
 <!---
